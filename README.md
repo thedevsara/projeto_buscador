@@ -1,4 +1,5 @@
-# 🧠 Buscador de Páginas HTML – PI1
+# 🔎 Buscador Simplificado de Páginas HTML
+
 
 Projeto desenvolvido para a disciplina de **Programação para a Internet** no curso de **Análise e Desenvolvimento de Sistemas (ADS)** – IFPI.
 
